@@ -1,0 +1,17 @@
+# Ignore specific files
+.idea/
+HTML\ fundamentals.pptx
+Hello\ Another\ World1.css
+Moshe's\ Site.zip
+
+# Ignore all files in a directory
+__pycache__/
+
+# Ignore all ZIP files
+*.zip
+
+# Ignore PDF files
+*.pdf
+
+# Ignore videos
+*.mp4
